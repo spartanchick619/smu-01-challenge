@@ -1,4 +1,4 @@
-# 01 HTML, CSS, and Git: Code Refactor
+# SMU Bootcamp - Challenge 1
 
 As part of the SMU Boootcamp, our first challenge was as follows:
 
