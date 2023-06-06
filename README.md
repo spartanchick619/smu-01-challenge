@@ -1,6 +1,6 @@
 # SMU Bootcamp - Challenge 1
 
-As part of the SMU Boootcamp, our first challenge was as follows:
+As part of the SMU Bootcamp, our first challenge was as follows:
 
 ## User Story
 
